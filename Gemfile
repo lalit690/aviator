@@ -20,4 +20,8 @@ group :test do
   gem 'minitest-reporters', '~> 0.14.20'
   gem 'mocha', '~> 1.1.0'
   gem 'vcr', '~> 2.8.0'
+gem 'aviator', :git => 'git@github.com:aviator/aviator.git', :branch => 'master'
+
+
+
 end
